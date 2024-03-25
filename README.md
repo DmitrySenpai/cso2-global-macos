@@ -2,6 +2,8 @@
 
 **Note: The game has not been tested on Apple Silicon processors.**
 
+This game works with macOS 10.13 (High Sierra) and higher
+
 ![image](https://github.com/DmitrySenpai/cso2-global-macos/assets/2939460/90f3bb53-645a-4fa4-8022-e3e63fdebf61)
 
 
