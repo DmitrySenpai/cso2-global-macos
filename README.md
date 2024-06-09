@@ -1,6 +1,6 @@
 # Counter-Strike Online 2 Global for MacOs (Intel/Silicon[?])
 
-**Note: The game has not been tested on Apple Silicon processors.**
+**Note: The game has not been tested on Apple Silicon processors. However, you will need to install Rosetta: https://support.apple.com/en-us/102527**
 
 This game works with macOS 10.13 (High Sierra) and higher
 
