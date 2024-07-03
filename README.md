@@ -9,6 +9,7 @@ The game works with macOS 10.13 (High Sierra) and higher. It also doesn’t work
 # Install
 
 Before installing the game, allow the use of applications from any source. To do this, open a terminal and enter the command: sudo spctl --master-disable
+
 <img src="https://github.com/DmitrySenpai/cso2-global-macos/assets/2939460/4beb6384-e12f-4f8b-bafa-023bd8595923">
 1. Download the game for Windows: https://cso2.wohlnet.ru/#download
 2. Unpack the archive to any location.
